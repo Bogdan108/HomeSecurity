@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51878841224",
+    "project_id": "homesecurity-2c4a3",
+    "storage_bucket": "homesecurity-2c4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51878841224:android:1d6d73da99605820b9083d",
+        "android_client_info": {
+          "package_name": "com.example.homesecurity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAancncBvNnIdqosCQsgyU0vIsGk64tg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
